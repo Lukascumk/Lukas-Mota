@@ -34,7 +34,7 @@
 
 
 
-***Conhecimento em Terminal:***
+***Conhecimento em CLI:***
 
 <p style="margin: 0; padding: 0;">
   <a href="https://skillicons.dev">
